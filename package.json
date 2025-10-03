@@ -1,0 +1,26 @@
+{
+  "name": "tvaryon-live",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "three": "0.160.1",
+    "@react-three/fiber": "8.15.15",
+    "@react-three/drei": "9.98.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "10.4.20",
+    "postcss": "8.4.47",
+    "tailwindcss": "3.4.10",
+    "typescript": "5.6.2",
+    "eslint": "8.57.0",
+    "eslint-config-next": "14.2.5"
+  }
+}

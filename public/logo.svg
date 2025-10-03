@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 64">
+  <style>.t{font:700 36px 'Inter',sans-serif; fill:#000}</style>
+  <circle cx="36" cy="32" r="16" fill="#00B8B8"/>
+  <text x="64" y="40" class="t">TvaryOn</text>
+</svg>
